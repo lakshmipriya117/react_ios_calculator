@@ -1,3 +1,11 @@
+<b>SIMPLE IOS CALCULATOR USING REACT</b>
+*mobile responsivness<br>
+*UI/UX designing
+![image](https://user-images.githubusercontent.com/36601848/180648025-cb13b313-ad2e-4722-a4b4-96bb03ee1dfd.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
