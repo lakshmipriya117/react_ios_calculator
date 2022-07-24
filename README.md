@@ -1,7 +1,7 @@
 <b>SIMPLE IOS CALCULATOR USING REACT</b>
 *mobile responsivness<br>
 *UI/UX designing
-![image](https://user-images.githubusercontent.com/36601848/180648025-cb13b313-ad2e-4722-a4b4-96bb03ee1dfd.png)
+![image](https://user-images.githubusercontent.com/36601848/180648051-43526b0b-3e63-45d9-b43c-ce7f0ab8f717.png)
 
 
 
