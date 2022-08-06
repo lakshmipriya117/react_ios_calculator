@@ -6,7 +6,7 @@
 
 
 
-<b>Features:<br/>>/b>
+<b>Features:<br/></b>
 *Basic Calculation.<br/>
 
 Keyboard Support.<br/>
@@ -15,12 +15,12 @@ Responsive.<br/>
 <br/>
 Minimal Flat Interface.
 
-Browser Compatibility:<br/>
+<b>Browser Compatibility:<br/></b>
 All of the latest versions of Chrome, Firefox, Edge, IE and Opera are supported.<br/>
 
 src folder contains separate html css and javascript files for source code and further tweaking.
 
-Usage Instructions for Keyboard:<br/><br/>
+<b>Usage Instructions for Keyboard:</b><br/><br/>
 Just use your keyboard as you do on a desktop calculator app.<br/>
 
 Numeric keys for inputting values and period "." key for decimal point.<br/>
